@@ -1,0 +1,87 @@
+#mainContainer{
+    padding-top: 130px;
+    padding-bottom: 100px;
+    min-height: calc(100vh - 70px);
+}
+
+#headTags{
+    line-height: 60px;
+    font-size: 16px;
+    padding: 10px;
+    color: white;
+}
+
+#brand{
+    color: white;
+    padding-left: 65px;
+    
+}
+
+#header{
+    width: 100%;
+    max-width: 99%;
+    margin: 7px;
+    clear: both;
+    z-index: 99;
+    position: fixed;
+    left: 0;
+    top: 0;
+
+}
+
+#mainBody{
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+#bodyHead{
+    padding: 20px;
+    border-bottom: 3px solid #dddddd;
+}
+
+#bioImage{
+    float: left;
+    width: 400px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+#banner{
+    float: right;
+    bottom: 40px;
+    left:16px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#paragraph{
+    padding: 15px;
+}
+
+#content {
+    padding: 15px;
+}
+
+#footer{
+   position: relative;
+   left: 0;
+   bottom: 0;
+   max-width: 99%;
+   margin:7px;
+   text-align: center;
+   color: white;
+   z-index: 98;
+}
+
+#portPic{
+    /* width: 200px; */
+    margin: 15px 40px 15px 40px;
+}
+#formInput{
+    width: 850px;
+}
